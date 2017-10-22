@@ -3,5 +3,3 @@ Repository for Coursework 1 of the module "Software and Programming 2"
 at Birkbeck in 2017/18.
 
 Robert Ocran
- 
-
